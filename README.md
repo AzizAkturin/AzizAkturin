@@ -1,6 +1,6 @@
 # 👋 Yo, my name is Aziz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aziz-akturin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/aziz-akturin](https://www.linkedin.com/in/aziz-akturin-7632b1269/))
 
 ---
 
