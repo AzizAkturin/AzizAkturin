@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I’m **Computer Science and Mathematics major** at the **University of Oregon**. Some of my technical interests:
+I’m **CS and Math major** at the **University of Oregon**. Some of my technical interests:
 
 - Algorithm and data structure optimization
 - AI applications and intelligent systems
