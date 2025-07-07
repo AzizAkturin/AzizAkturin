@@ -1,4 +1,4 @@
-# 👋Yo, 
+**👋Yo,** 
 
 I'm Aziz, a software engineer pursuing CS and Math at the University of Oregon
 
