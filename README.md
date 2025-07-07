@@ -1,6 +1,6 @@
 # 👋Yo, 
 
-I'm Aziz, a software engineer persuing CS and Math at the University of Oregon
+I'm Aziz, a software engineer pursuing CS and Math at the University of Oregon
 
 I love algorithm and data strcuture optimization, competitive programming, entrepreneurship and creating technology that solves real-world problems.
 
