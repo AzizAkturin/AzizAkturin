@@ -15,7 +15,7 @@ I like shipping products that mix clean UX with solid engineering — from workf
 - LinkedIn: https://www.linkedin.com/in/aziz-akturin/
 - Email: aakturin@uoregon.edu
 
-## Fun Fact: dsa
+## Fun Fact:
 - My top 3 movies are Interstellar, Whiplash, and Jurassic Park 3
 
 
