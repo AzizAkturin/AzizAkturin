@@ -1,6 +1,6 @@
 ## Hello:
 
-I'm Aziz, a software engineer pursuing CS and Math at the University of Oregon. dfs
+I'm Aziz, a software engineer pursuing CS and Math at the University of Oregon.
 
 Math + Computer Science @ University of Oregon • Builder • Hackathons • Blockchain • Protein Engineering & Synthetic Biology
 
