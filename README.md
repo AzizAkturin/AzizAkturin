@@ -1,21 +1,32 @@
-## Hello:
+<h1 align="center">Aziz Akturin</h1>
+<p align="center">CS&Math @University of Oregon</p>
 
-I'm Aziz, a software engineer pursuing CS and Math at the University of Oregon.
+<p align="center">
+  <a href="https://tatarinov.org">website</a> •
+  <a href="https://www.linkedin.com/in/aziz-akturin/">linkedin</a> •
+  <a href="https://medium.com/@azizakturin">medium</a>
+</p>
 
-Math + Computer Science @ University of Oregon • Builder • Hackathons • Blockchain • Protein Engineering & Synthetic Biology
 
-I like shipping products that mix clean UX with solid engineering — from workflow automation to iOS apps and data-structure-heavy projects.
 
-## Tech I use:
-**Languages:** Python, Swift, TypeScript/JavaScript, C  
-**Tools:** Git/GitHub, Docker, REST APIs, Figma  
-**Interests:** systems/DSA, developer tools, automation, applied ML
+<p align="center">
+  Python | C | Algorithms | Computational Biology | ML | Hackathons 
+</p>
 
-## Contact:
-- LinkedIn: https://www.linkedin.com/in/aziz-akturin/
-- Email: aakturin@uoregon.edu
 
-## Fun Fact:
-- My top 3 movies are Interstellar, Whiplash, and Jurassic Park 3
 
+<p align="center">
+  Research @<a href="https://blogs.uoregon.edu/dhimanraygroup/">Ray Computational Biophysics Group</a> | Molecular dynamics
+  <br>
+  Research @<a href="https://www.oregonblockchain.org/">Oregon Blockchain Group </a> | Algorithms, simulations, risk engines
+  <br>
+  Junior SWE @<a href="https://www.instagram.com/quackhacksuo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">QuackHacks </a> | Fastest growing hackathon on the West coast
+  <br>
+</p>
+
+
+
+<p align="center">
+  My top 3 movies: Interstellar, Whiplash, and Jurassic Park 3
+</p>
 
