@@ -1,4 +1,4 @@
-<h1 align="center">Aziz Akturin</h1>
+<h1 align="center">Hello, I'm Aziz</h1>
 <p align="center">CS&Math @University of Oregon</p>
 
 <p align="center">
