@@ -2,7 +2,6 @@
 <p align="center">CS&Math @University of Oregon</p>
 
 <p align="center">
-  <a href="https://tatarinov.org">website</a> •
   <a href="https://www.linkedin.com/in/aziz-akturin/">linkedin</a> •
   <a href="https://medium.com/@azizakturin">medium</a>
 </p>
