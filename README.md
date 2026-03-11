@@ -19,7 +19,7 @@
   <br>
   Research @<a href="https://www.oregonblockchain.org/">Oregon Blockchain Group </a> | Algorithms, simulations, risk engines
   <br>
-  Junior SWE @<a href="https://www.instagram.com/quackhacksuo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">QuackHacks </a> | Fastest growing hackathon on the West coast
+  Fullstack Engineer @<a href="https://www.quackhacks.org/">QuackHacks </a> | Fastest growing hackathon on the West coast
   <br>
 </p>
 
