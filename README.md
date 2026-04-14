@@ -17,8 +17,6 @@
 <p align="center">
   Research @<a href="https://blogs.uoregon.edu/dhimanraygroup/">Ray Computational Biophysics Group</a> | Molecular dynamics
   <br>
-  Research @<a href="https://www.oregonblockchain.org/">Oregon Blockchain Group </a> | Algorithms, simulations, risk engines
-  <br>
   Fullstack Engineer @<a href="https://www.quackhacks.org/">QuackHacks </a> | Fastest growing hackathon on the West coast
   <br>
 </p>
