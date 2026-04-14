@@ -1,5 +1,5 @@
 <h1 align="center">Hii, my name is Aziz</h1>
-<p align="center">CS&Math @University of Oregon</p>
+<p align="center">CS + Math + Bio @University of Oregon</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aziz-akturin/">linkedin</a> •
