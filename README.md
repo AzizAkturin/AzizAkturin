@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Python | C | Algorithms | Computational Biology | Hackathons 
+  Python | C | Algorithms | Protein Engineering | Computational Biology | Hackathons 
 </p>
 
 
