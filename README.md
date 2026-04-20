@@ -1,4 +1,4 @@
-<h1 align="center">Hii, my name is Aziz</h1>
+<h1 align="center">Hi, my name is Aziz</h1>
 <p align="center">CS + Math + Bio @University of Oregon</p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Python | C | Algorithms | Protein Engineering | Computational Biology | Hackathons 
+  Algorithms | Protein Engineering | Computational Biology | Hackathons 
 </p>
 
 
