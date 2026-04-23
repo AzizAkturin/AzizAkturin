@@ -17,7 +17,7 @@
 <p align="center">
   Research @<a href="https://blogs.uoregon.edu/dhimanraygroup/">Ray Computational Biophysics Group</a> | Molecular dynamics
   <br>
-  Fullstack Engineer @<a href="https://www.quackhacks.org/">QuackHacks </a> | Fastest growing hackathon on the West coast
+  Senior Fullstack Engineer @<a href="https://www.quackhacks.org/">QuackHacks </a> | Fastest growing hackathon on the West coast
   <br>
 </p>
 
