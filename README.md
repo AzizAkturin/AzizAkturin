@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Algorithms | Protein Engineering | Computational Biology | Hackathons 
+  Algorithms | Startups | Protein Engineering | Computational Biology | Hackathons 
 </p>
 
 
