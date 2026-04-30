@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Aziz</h1>
+<h1 align="center">Hey, my name is Aziz</h1>
 <p align="center">CS + Math + Bio @University of Oregon</p>
 
 <p align="center">
